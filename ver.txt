@@ -1,1 +1,4 @@
-https://github.com/Teams22TT/DartClient/releases/download/free/1.16.5.jar
+{
+    "Version": "1.0",
+    "Link": "https://github.com/Teams22TT/DartClient/releases/download/free/1.16.5.jar"
+}
